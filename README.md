@@ -1,56 +1,140 @@
-# 🎌 Apex Anime - Ad-Limited Anime Streaming
+# 🔥 Apex Anime  
+### *The Last Ad-Limited Anime App You'll Ever Need*
 
-> **"Anime without the ads headache"**  
-> Watch your favorite shows **completely free** with just **two non-intrusive ads per day**—no subscriptions, no tracking.
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk0dGJ5Y2NtY3R4d2V5Z2R6Z2V6bnA1eWZ4NnR6dGJ5YzB6eWZ6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Apex Anime Demo">
 
----
-
-<p align="center">
-  <a href="https://github.com/Aaryanbanskota/anime-app/stargazers">
-    <img src="https://img.shields.io/github/stars/Aaryanbanskota/anime-app?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/Aaryanbanskota/anime-app/issues">
-    <img src="https://img.shields.io/github/issues/Aaryanbanskota/anime-app?style=for-the-badge&logo=git" alt="Open Issues">
-  </a>
-  <a href="https://kotlinlang.org">
-    <img src="https://img.shields.io/badge/100%25-Kotlin-purple?style=for-the-badge&logo=kotlin" alt="Kotlin">
-  </a>
-</p>
-
-<p align="center">
-  <strong>📥 Early Alpha - Android APK coming soon!</strong> (Follow releases)
-</p>
+[![⬇️ DOWNLOAD APK](https://img.shields.io/badge/GET_APK-HOT_PINK?style=for-the-badge&logo=android&logoColor=white)](https://www.mediafire.com/file/when8omsb252lko/app-debug.apk/file)
+[![💬 JOIN DISCORD](https://img.shields.io/badge/DISCORD-JOIN_BLUE?style=for-the-badge&logo=discord)](https://discord.gg/your-invite-link)
+</div>
 
 ---
 
-## 🍿 Why Apex Anime?
+## ✨ Why Apex Anime Stands Out
 
-| Feature          | Typical Apps | Apex Anime |
-|------------------|--------------|------------|
-| Ads per episode  | 5-10         | **Max 2/day** |
-| Account required | ✅           | ❌          |
-| Data collection  | Extensive    | **None**   |
-| Offline viewing  | Premium-only | **Free**   |
+> _“We took everything you hate about anime streaming... and nuked it from orbit.”_
 
----
+<div align="center">
 
-## ✨ Premium Experience, Zero Cost
+| Feature         | 🧟 Other Apps        | 🥷 Apex Anime        |
+|-----------------|----------------------|-----------------------|
+| **Ads**         | 5–10 per episode     | ✅ Max 2 **per day**  |
+| **Tracking**    | Sells your data      | ✅ Zero analytics     |
+| **Quality**     | 720p max             | ✅ Native 1080p       |
+| **Offline Mode**| Locked behind paywall| ✅ Free downloads     |
+| **Accounts**    | Signup mandatory     | ✅ Guest mode enabled |
 
-- **Minimal Ads**: Just 2 daily ads (never during episodes!)
-- **Instant Access**: No login walls or paywalls
-- **Crystal HD**: Adaptive streaming up to 1080p
-- **Smart Downloads**: Save episodes for offline viewing
-- **Weeb-Friendly**: Season tracking + manga cross-references
+</div>
 
 ---
 
-## 🛠 Tech Stack Breakdown
+## 🚀 Features Worth Simping For
+
+### 🛡️ Ad Shield Technology  
+> _"We show fewer ads in a week than Crunchyroll shows in one episode."_
+
+![Max 2 Ads Daily](https://img.shields.io/badge/MAX_2_ADS-DAILY-9cf?style=flat-square)
+
+---
+
+### 🌌 Weeb-First Design  
+```kotlin
+// Actual logic inside our player:
+fun playEpisode() {
+    skipIntroDetector()       // because intros get old
+    autoNextEpisode()         // binge responsibly
+    adManager.checkDailyLimit() // this is why users love us
+}
+```
+
+---
+
+## 📲 Install in 10 Seconds Flat
+
+### 👤 Android Users:
+```bash
+1. Tap this ➜ https://www.mediafire.com/file/when8omsb252lko/app-debug.apk/file
+2. Enable "Install Unknown Sources"
+3. Launch and start watching
+```
+
+### 👨‍💻 Developers:
+```bash
+git clone https://github.com/Aaryanbanskota/anime-app.git
+cd anime-app
+./gradlew assembleDebug
+```
+
+---
+
+## ⚙️ Tech Stack That Doesn’t Suck
 
 ```mermaid
-graph TD
+%%{init: {'theme': 'dark'}}%%
+graph LR
     A[Kotlin] --> B[Jetpack Compose]
     A --> C[Clean Architecture]
-    B --> D[ExoPlayer Core]
-    C --> E[Retrofit + OkHttp]
-    C --> F[Room Database]
-    D --> G[MP4/HLSDash Support]
+    B --> D[ExoPlayer Integration]
+    C --> E[Retrofit]
+    C --> F[Room DB]
+    D --> G[4K Playback Support]
+    E --> H[AniList API]
+    F --> I[Offline Caching]
+```
+
+**Secret Sauce**:  
+![Dagger Hilt](https://img.shields.io/badge/Dagger-Hilt-red)  
+![Coroutines Flow](https://img.shields.io/badge/Coroutines-Flow-green)  
+![Coil ImageLoader](https://img.shields.io/badge/Coil-ImageLoader-blue)
+
+---
+
+## 👶 My First Project – Please Be Kind
+
+> This is my very first full Android project. While I’ve done my best to squash bugs and keep the user experience smooth, there may still be some hiccups.  
+>  
+> I'm always learning and improving — your feedback means a lot! 🙏
+
+---
+
+## 🌟 Roadmap Highlights
+
+- ✅ Alpha Launch — *"It works... mostly"*
+- 🔄 MAL/AniList Sync — *Coming Q4 2025*
+- 📺 Chromecast Support — *Soon™*
+- 🌑 AMOLED Dark Mode — *Save those pixels*
+
+---
+
+## ❓ FAQ
+
+<details>
+<summary><b>Q: How is this free with only 2 ads per day?</b></summary>
+<br>
+A: Black magic. Also: smart caching + efficient servers = happy users.
+</details>
+
+<details>
+<summary><b>Q: iOS version when?</b></summary>
+<br>
+A: When Apple chills about sideloading. Until then—Android emulator.
+</details>
+
+---
+
+<div align="center">
+
+## 💖 Love This Project?
+
+[![GitHub Stars](https://img.shields.io/github/stars/Aaryanbanskota/anime-app?style=social)](https://github.com/Aaryanbanskota/anime-app/stargazers)  
+[![GitHub Forks](https://img.shields.io/github/forks/Aaryanbanskota/anime-app?style=social)](https://github.com/Aaryanbanskota/anime-app/network)
+
+```kotlin
+// Final Thought
+if (you.readThisFar) {
+    println("You're legendary! 🎉")
+    startWatchingAnime()
+}
+```
+
+</div>
