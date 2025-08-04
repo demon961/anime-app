@@ -92,8 +92,15 @@ graph LR
 ## 👶 My First Project – Please Be Kind
 
 > This is my very first full Android project. While I’ve done my best to squash bugs and keep the user experience smooth, there may still be some hiccups.  
->  
 > I'm always learning and improving — your feedback means a lot! 🙏
+
+---
+
+## 📚 Disclaimer & Source
+
+> 🚧 **Disclaimer:** This app is built **for educational purposes only**. It is not affiliated with, endorsed by, or officially connected to any anime content providers.  
+>  
+> 🔗 **Streaming Source:** This app uses **HiAnime** as its source for streaming content. All rights for the streamed content belong to their respective copyright holders.
 
 ---
 
